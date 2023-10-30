@@ -4,6 +4,7 @@
 
 [![Lua](https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua)](http://www.lua.org)
 
+</div>
 ## Description
 Setting up live preview for latex can be annoying. Running both latexmk and 
 your PDF viewer of choice and needed to manage those terminal sessions can 
@@ -27,4 +28,3 @@ latex_preview.setup({
 })
 ```
 
-</div>
