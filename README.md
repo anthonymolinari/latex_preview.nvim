@@ -1,6 +1,7 @@
 <div align="center">
+
 # `latex_preview.nvim`
-##### preview latex files in neovim
+##### launch a live preview of latex files with neovim
 
 [![Lua](https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua)](http://www.lua.org)
 
