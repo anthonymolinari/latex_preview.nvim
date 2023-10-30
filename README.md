@@ -1,1 +1,1 @@
-# latext_preview.nvim
+# latex_preview.nvim
