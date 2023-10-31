@@ -3,6 +3,8 @@
 # `latex_preview.nvim`
 ##### launch a live preview of latex files with neovim
 
+## this plugin is being actively developed, and may not be in working order
+
 [![Lua](https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua)](http://www.lua.org)
 
 </div>
