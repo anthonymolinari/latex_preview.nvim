@@ -6,10 +6,10 @@
 [![Lua](https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua)](http://www.lua.org)
 
 </div>
+
 ## Description
-Setting up live preview for latex can be annoying. Running both latexmk and 
-your PDF viewer of choice and needed to manage those terminal sessions can 
-be annoying. The goal of this plugin is to automate the process of launching a
+Setting up live preview for latex can be annoying, managing both latexmk and 
+your PDF viewer of choice. The goal of this plugin is to automate the process of launching and managing a
 live preview and do so without ever leaving the comfort of vim.
 
 # Installation
@@ -20,7 +20,6 @@ use 'anthonymolinari/latex_preview.nvim'
 ```
 
 # Configuration
-
 ```lua
 local latex_preview = require('latex_preview')
 
