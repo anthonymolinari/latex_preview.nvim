@@ -27,4 +27,5 @@ latex_preview.setup({
     mappings = {},
 })
 ```
+# References
 
