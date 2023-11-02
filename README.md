@@ -10,8 +10,7 @@
 </div>
 
 ## Description
-Setting up live preview for latex can be annoying, managing both latexmk and 
-your PDF viewer of choice. The goal of this plugin is to automate the process of launching and managing a
+The goal of this plugin is to automate the process of launching and managing a
 live preview and do so without ever leaving the comfort of vim.
 
 # Installation
