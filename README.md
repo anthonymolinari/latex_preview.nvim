@@ -43,7 +43,7 @@ vim.keymap.set('n', '<leader>cf', lp.StopPreview, {})
 
 ```
 # References
-Repos used for refence will working on this plugin:
+Repos used for refence while working on this plugin:
 
 [buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim)
 [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
